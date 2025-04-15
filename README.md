@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="175" src="https://img.shields.io/badge/Grade-100%25-00dd13?style=for-the-badge&logo=42"/>
+  <img width="175" src="https://img.shields.io/badge/Grade-98%25-00dd13?style=for-the-badge&logo=42"/>
 </div>
 
 <div align="center">
